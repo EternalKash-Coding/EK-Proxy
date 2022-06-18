@@ -1,7 +1,7 @@
 {
-    "name": "Ultraviolet App",
-    "description": "Node.js Ultraviolet instance",
+    "name": "EternalProx App",
+    "description": "Node.js EternalProx [uses ultraviolet] instance",
     "repository": "https://github.com/titaniumnetwork-dev/ultraviolet-web-app",
-    "logo": "https://github.com/titaniumnetwork-dev/Ultraviolet/blob/main/uv.png?raw=true",
+    "logo": "https://avatars.githubusercontent.com/u/107716385?s=200&v=4",
     "keywords": ["tomp", "ultraviolet"]
 }
